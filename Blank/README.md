@@ -1,0 +1,9 @@
+- Name : **Blank Template**
+- What : A blank template to be used as a starter
+- Object : N/A
+- Used By : N/A
+- Status : N/A
+- Sendgrid Template ID : N/A
+- Sendgrid link : N/A
+- Version : V1
+- Date : 02/04/2025

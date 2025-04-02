@@ -1,0 +1,24 @@
+<mjml>
+   <mj-head>
+     <mj-attributes>
+     <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway" />
+     <mj-text font-family="Raleway" font-size="14px" />
+     </mj-attributes>
+   </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <mj-image src="http://cdn.mcauto-images-production.sendgrid.net/95529cb5fb8a5bdc/e7ff679f-4fb8-4d9c-bfcf-cc2138d0640e/1414x488.png"></mj-image>
+        <mj-text>Bonjour {{clientName}},</mj-text>
+        <mj-text>Nous espérons que vous allez bien 🙂</mj-text>
+        <mj-text>Votre départ est prévu dans <strong>10 jours !</strong></mj-text>
+        <mj-text>Prolonger votre expérience avec Flexliving <em>c'est possible et rapide*.</em></mj-text>
+        <mj-text>Nous vous invitons à nous communiquer la date jusqu'à laquelle vous aimeriez rester dans votre appartement en <strong>réponse à ce mail</strong>.</mj-text>
+        <mj-text>Nous vous enverrons ensuite un nouveau contrat pour actualiser votre contrat.</mj-text>
+        <mj-text>Nous restons également à votre disposition pour toute question concernant votre séjour.</mj-text>
+        <mj-text>Bonne journée,<br>Melina Flexliving</mj-text>
+        <mj-text>*(Si votre logement actuel n'est pas disponible, nous vous enverrons de nouvelles propositions)</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
