@@ -12,15 +12,12 @@ By doing this, the template is updated deliberately and with a goal of putting i
 
 We also provide a test_data.json that you can paste directly in sendgrid test data.
 
-## Documentation
-Everything is documented here : 
-
 ## Template
-[**A blank template is provided to kicktart your new email**](/Blank%20template/)
+[**A blank template is provided to kicktart your new email**](/Blank/)
 
 
 ## List of templates in this repository :
-- 
+- [**Email proposing an extension of stay**](/Prolongation/)
 
 ## Model for use in readme :
 - Name : **template name**
