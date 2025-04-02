@@ -1,4 +1,4 @@
-## Model for use in readme :
+## Email proposing an extension of stay :
 - Name : **Prolongation**
 - What : Email proposing an extension of stay 
 - Object : Prolongez votre expérience à Paris
