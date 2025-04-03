@@ -1,4 +1,4 @@
-# WTTJ EMAIL TEMPLATES
+# FLEXLIVING EMAIL TEMPLATES
 
 ## Introduction
 Our templates are made using [MJML](https://mjml.io/)
